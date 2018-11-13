@@ -9,12 +9,11 @@ Run:
 Just have the 'sea.data1.txt' file in the current working directory and run the code.
 
 Results:
-Tested on two artificial data sets called SEA and HYPERPLAN and the accuracy of the classification model was compared between the classification accuracy of the model with CDD and other without CDD. Results show that with the help of CDD procedure we can significantly improve the prediction quality of the classification model.
-
-For instance for 
+Tested on two artificial data sets called SEA and HYPERPLAN and the accuracy of the classification model was compared between the classification accuracy of the model with CDD and other without CDD. Results show that with the help of CDD procedure we can significantly improve the prediction quality of the classification model. 
 
 SEA dataset:
 Average accuracy with CD detection was found to be incerased to 98.13% from 82.28%.*
+
 HYPERPLANE dataset:
 Average accuracy with CD detection was found to be incerased to 100% from 90.55%.*
 

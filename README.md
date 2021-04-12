@@ -18,3 +18,16 @@ HYPERPLANE dataset:
 Average accuracy with CD detection was found to be incerased to 100% from 90.55%.*
 
 *This is the case when the CDD procedure was highly sensitive to detect the slight deviation from the the target features.
+
+# Citation
+```
+@inproceedings{punn2018testing,
+  title={Testing Concept Drift Detection Technique on Data Stream},
+  author={Punn, Narinder Singh and Agarwal, Sonali},
+  booktitle={International Conference on Big Data Analytics},
+  pages={89--99},
+  year={2018},
+  organization={Springer}
+}
+
+```
